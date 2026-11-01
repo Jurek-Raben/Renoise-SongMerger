@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <ApiVersion>6.2</ApiVersion>
+  <Id>ai.claude.SongMerger</Id>
+  <Version>0.1</Version>
+  <Author>Jurek Raben</Author>
+  <Name>Song Merger</Name>
+  <Category>Song</Category>
+  <Description>Merges selected tracks of another song into the current song, including groups, send tracks, meta device routings, used instruments and selected master FX.</Description>
+  <Platform>Windows, Mac, Linux</Platform>
+</RenoiseScriptingTool>
